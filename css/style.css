@@ -15,18 +15,18 @@ header{
 }
 .showcase-img{
 	background-image: url(../img/bg-showcase-1.jpg);
-	height: 460px;
+	height: 450px;
 	background-size: cover;
 }
 .showcase-img1{
 	background-image: url(../img/bg-showcase-2.jpg);
 	background-size: cover;
-	height: 460px;
+	height: 450px;
 }
 .showcase-img2{
 	background-image: url(../img/bg-showcase-3.jpg);
 	background-size: cover;
-	height: 460px;
+	height: 450px;
 }
 .showcase-text{
 	padding: 100px;
