@@ -15,18 +15,18 @@ header{
 }
 .showcase-img{
 	background-image: url(../img/bg-showcase-1.jpg);
-	height: 450px;
 	background-size: cover;
+	min-height: 450px;
 }
 .showcase-img1{
 	background-image: url(../img/bg-showcase-2.jpg);
 	background-size: cover;
-	height: 450px;
+	min-height: 450px;
 }
 .showcase-img2{
 	background-image: url(../img/bg-showcase-3.jpg);
 	background-size: cover;
-	height: 450px;
+	min-height: 450px;
 }
 .showcase-text{
 	padding: 100px;
@@ -51,5 +51,5 @@ header{
 }
 .social{
 	font-size: 40px;
-	text-align: right!important;
+/*	text-align: right;*/
 }
