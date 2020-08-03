@@ -62,9 +62,12 @@ header{
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: red;
+  background-color:coral;
   color: white;
   cursor: pointer;
   padding: 15px;
   border-radius: 4px;
+}
+#mybtn:hover{
+	background-color: sandybrown;
 }
