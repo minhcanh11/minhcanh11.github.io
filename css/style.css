@@ -261,7 +261,7 @@ section .info{
 	margin: 5px;
 }
 @media(max-width: 420px) {
-	h1 { font-size: 28px!important; }
+	h1 { font-size: 27px!important; }
 	p { font-size: 24px; }
 	h6 { font-size: 26px; }
 	h3 { font-size: 28px; }
@@ -270,5 +270,7 @@ section .info{
 	p.text3 { font-size: 20px; }
 	.img { margin-bottom: 10px }
 	#scrollUp { font-size: 16px; width: 32px; height: 32px; bottom: 15px; right: 15px; }
-	
+	.anh1 { margin-bottom: 20px; }
+	ul li .fa { font-size: 16px; }
+	footer p { font-size: 12px;}
 }
